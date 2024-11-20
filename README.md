@@ -23,4 +23,4 @@ We provide the Rijksmuseum dataset (embeddings only) for testing purposes. The d
 
 ## Local training (experimental)
 
-Please see [make_model.py](make_model.py) to train your own model, GPU support strongly recommended.
+Please see [make_model.py](app/make_model.py) to train your own model, GPU support strongly recommended.
